@@ -1,0 +1,17 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/PencilsConfiguration/ActualSeverity/@EntryValue">INFO</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3ba7f752_002D5df5_002D4667_002Da5c6_002D62bec0ab509e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="MenuMasterCountTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::7587DF32-F3E1-4BBF-BAFB-2B17A4B98951::net8.0::ArbusTest.UnitTests.MenuMasterCountTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=78d499c0_002Dd737_002D40d0_002D9054_002Dba3350554f26/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="MenuMasterCountTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::7587DF32-F3E1-4BBF-BAFB-2B17A4B98951::net8.0::ArbusTest.UnitTests.MenuMasterCountTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::7587DF32-F3E1-4BBF-BAFB-2B17A4B98951::net8.0::ArbusTest.UnitTests.MenuMasterPageCountTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::7587DF32-F3E1-4BBF-BAFB-2B17A4B98951::net8.0::ArbusTest.UnitTests.MenuMasterDishesCountPerPageTests.MenuMasterDishesCountPerPageTests_ShouldThrowException_WhenPageWrong&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::7587DF32-F3E1-4BBF-BAFB-2B17A4B98951::net8.0::ArbusTest.UnitTests.MenuMasterDishesCountPerPageTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::7587DF32-F3E1-4BBF-BAFB-2B17A4B98951::net8.0::ArbusTest.UnitTests.MainMenuGetDishesByPageTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::7587DF32-F3E1-4BBF-BAFB-2B17A4B98951::net8.0::ArbusTest.UnitTests.MenuMasterGetTopDishesTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
